@@ -1,0 +1,11 @@
+BlackJack
+
+Font : Poppins
+
+colors:
+
+bg : #03091C
+Primary : #E100FF
+Secondary : #75006C
+accent : #3200FF
+text : #FFF / #000
